@@ -1,2 +1,2 @@
 # Factory_design_pattern
- factory design pattern örneği
+ basit bir factory design pattern örneği
